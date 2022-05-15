@@ -1,5 +1,5 @@
 # ColdAI3rd
-[中文]https://github.com/handama/ColdAI3rd/blob/main/README_zh.md
+[中文](README_zh.md)
 
 To Gamers
 ---------

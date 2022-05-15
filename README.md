@@ -1,4 +1,8 @@
 # ColdAI3rd
+Screenshots
+---------
+
+
 [中文](README_zh.md)
 
 To Gamers

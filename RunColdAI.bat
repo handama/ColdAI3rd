@@ -1,0 +1,1 @@
+Syringe "gamemd.exe" %* -b=27

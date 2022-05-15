@@ -1,8 +1,4 @@
 # ColdAI3rd
-Screenshots
----------
-
-
 [中文](README_zh.md)
 
 To Gamers
@@ -47,3 +43,19 @@ The licenses of relevant software are included in .\licenses\ directory.
                                                Handama
 
                                           18th January 2022
+                                          
+Screenshots
+---------
+![image](Screenshots/伞兵.gif)
+![image](Screenshots/辐射坐飞机.gif)
+![image](Screenshots/利比亚速攻.gif)
+![image](Screenshots/利比亚铁幕.gif)
+![image](Screenshots/法国巨炮前置.gif)
+![image](Screenshots/狗探路.gif)
+![image](Screenshots/盟军炸电厂.gif)
+![image](Screenshots/苏军rush.gif)
+![image](Screenshots/苏军打经济.gif)
+![image](Screenshots/苏军高科进攻.gif)
+![image](Screenshots/萌苏基础步兵.gif)
+![image](Screenshots/铁幕+超时空.gif)
+

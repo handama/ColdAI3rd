@@ -58,4 +58,5 @@ Screenshots
 ![image](Screenshots/苏军高科进攻.gif)
 ![image](Screenshots/萌苏基础步兵.gif)
 ![image](Screenshots/铁幕+超时空.gif)
-
+![image](Screenshots/单独寻敌2.gif)
+![image](Screenshots/单独寻敌4.gif)
